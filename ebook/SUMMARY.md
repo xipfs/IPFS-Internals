@@ -1,5 +1,5 @@
 # 目录
-- [前言](preface.md)
+- [前言](Preface.md)
 
 ## 第一部分：IPFS 入门
 
