@@ -43,8 +43,48 @@ IPFS 还能与区块链进行无缝的衔接，随着区块链技术的飞速发
 第10章-11章 通过实战项目让读者熟练掌握 IPFS，进入 IPFS 的大门。
 
 
+## 本书面向读者
 
++ 对 IPFS 感兴趣的爱好者。
++ 有一定开发基础，想深入了解 IPFS 设计与实现的开发人员。
 
+## 如何阅读本书
+
+本书每一章都建立在前一章 的基础上，但每一章又都可以阅读。本书内容主要围绕对 IPFS 设计与实现展开讨论。读者可以从第1章开始，按顺序阅读本书并运行每一章的源代码，也可以直接跳到感兴趣的章节阅读，必要时再阅读其他章节。
+
+## 参考资料
+
+由于目前 IPFS 资料匮乏，IPFS 参考资料主要还是以官方文档为主。然后还通过搜索引擎查阅分布于网络上的各种资料。笔者在本书创作过程中从下面所列资料中获得了极大的帮助，大家也可以从以下信息中找到更多关于 IPFS 的资料。
+
++ Filecoin Documentation [^2]​
++ IPFS Documentation [^3]​
++ IPFS 中国社区[^4]​
++ IPFSER[^5]​
++ 巴比特[^6]​
++ StackOverflow 
++ Wikipedia
+
+## 下载本书源代码
+
+[IPFS-Internals](https://github.com/xipfs/IPFS-Internals)
+
+## 勘误和支持
+
+尽管我们仔细对待本书的写作，由于水平和能力有限，错误还是不可避免。如果你在书中发现不妥或错误之处，请加入上面微信群获得支持和帮助。
+
+## 致谢
+
+## 参考文献
+
++ [1] https://en.wikipedia.org/wiki/InterPlanetary_File_System​
++ [2] https://filecoin.io/​
++ [3] https://docs.ipfs.io/​
++ [4] http://www.ipfs.cn/​
++ [5]  http://ipfser.org​
++ [6] https://www.8btc.com/p/ipfs
+
+-----
+​
 
 [^1]: https://en.wikipedia.org/wiki/InterPlanetary_File_System
 [^2]: https://filecoin.io/​
