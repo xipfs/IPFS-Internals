@@ -15,7 +15,10 @@
 
 ## 交流社区
 
+![QQ群](images/qq.png)
+
 ![微信群](images/qr.png)
+
 
 ## 致谢
 
