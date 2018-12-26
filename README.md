@@ -17,9 +17,6 @@
 
 ![QQ群](images/qq.png)
 
-![微信群](images/qr.png)
-
-
 ## 致谢
 
 - 参与写作人员：
