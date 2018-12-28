@@ -19,8 +19,6 @@
 
 ## 致谢
 
-- 参与写作人员：
-	- [@xipfs](https://github.com/xipfs)
 
 
 ## 授权许可
