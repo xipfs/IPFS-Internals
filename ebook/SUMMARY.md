@@ -26,7 +26,10 @@
 - 第6章：[IPFS 存储层](06.0.md)
 - 第7章：[IPFS Bitswap](07.0.md)
 - 第8章：[IPFS 网络层](08.0.md)
-- 第9章：[IPFS 集群](09.0.md)
+- 第9章：IPFS Cluster
+    - 9.1 [IPFS Cluster 与分布式系统](09.1.md)
+    - 9.2 [深入理解 IPFS Cluster](09.2.md)
+    - 9.3 [IPFS Cluster 安装与配置](09.3.md)
 
 ## 第三部分：IPFS 实战
 - 第10章：[基于 IPFS 视频网站](10.0.md)
