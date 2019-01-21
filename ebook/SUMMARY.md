@@ -38,5 +38,6 @@
 ## 附录
 
 - [A 磁盘性能测试](adx01.md)
+- [B IPFS 源码结构](images/ipfs.png)
 
 ## 索引
