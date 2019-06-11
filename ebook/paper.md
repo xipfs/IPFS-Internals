@@ -29,3 +29,4 @@
 >试图通过「空间证明」（Proof of Space）来保证比特币及其他加密货币的安全。「空间证明」是Bram Cohen之前提出的一种取代PoW的工作证明方式。
 
 + [zk-SNARK explained: Basic Principles](../paper/zkSNARK.pdf)
++ [[译] zkSNARKs（零知识证明）简述](https://zhuanlan.zhihu.com/p/31780893)
