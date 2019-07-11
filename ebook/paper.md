@@ -12,6 +12,11 @@
 + [Filecoin: Proof of Replication](../paper/5.pdf)
 + [Filecoin: Tight Proofs of Space and Replication](https://eprint.iacr.org/2018/702.pdf)
 
+### 共识算法
+
++ [HotStuff: BFT Consensus in the Lens of Blockchain](../paper/hostuff.pdf)
++ [State Machine Replication in the Libra Blockchain](../paper/librabft.pdf)
+
 ### 分布式系统
 + [Kademlia: A Peer-to-peer Information System Based on the XOR Metric](http://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
 + [S/Kademlia: A Practicable Approach Towards Secure Key-Based Routing](https://web.archive.org/web/20170809130252/http://www.tm.uka.de/doc/SKademlia_2007.pdf)
@@ -23,10 +28,5 @@
 ### 密码学
 
 + [Simple Proofs of Sequential Work 简单的连续工作证明](https://eprint.iacr.org/2018/183.pdf)
-> 2018年欧密会最佳论文，作者：Krzysztof Pietrzak，密码学家、奥地利科学与技术学院研究员。Bram Cohen，BitTorrent创始人、Chia CEO
-
->内容简介：
->试图通过「空间证明」（Proof of Space）来保证比特币及其他加密货币的安全。「空间证明」是Bram Cohen之前提出的一种取代PoW的工作证明方式。
-
 + [zk-SNARK explained: Basic Principles](../paper/zkSNARK.pdf)
 + [[译] zkSNARKs（零知识证明）简述](https://zhuanlan.zhihu.com/p/31780893)
