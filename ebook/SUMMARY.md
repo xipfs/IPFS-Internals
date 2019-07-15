@@ -32,13 +32,23 @@
     - 9.3 [IPFS Cluster 安装与配置](09.3.md)
 
 ## 第三部分：IPFS 实战
+
 - 第10章：[基于 IPFS 视频网站](10.0.md)
 - 第11章：[基于 IPFS 手机文件管理APP](11.0.md)
+
+## 第四部分：FileCoin
+
++ 第12章：FileCoin
 
 
 ## 参考论文
 
 - [论文列表](paper.md)
+  - [近世代数](paper.md)
+  - [IPFS/Filecoin 白皮书](paper.md)
+  - [共识算法](paper.md)
+  - [零知识证明](paper.md)
+  - [分布式系统](paper.md)
 
 
 ## 附录
