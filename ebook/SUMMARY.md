@@ -38,7 +38,13 @@
 
 ## 第四部分：FileCoin
 
-+ 第12章：FileCoin
+- 第12章：FileCoin概述
+- 第13章：共识与密码学
+- 第14章：容错处理
+- 第15章：经济激励
+- 第16章：存储市场与检索市场
+- 第17章：如何挖矿及使用Filecoin
+
 
 
 ## 参考论文
@@ -46,9 +52,15 @@
 - [论文列表](paper.md)
   - [近世代数](paper.md)
   - [IPFS/Filecoin 白皮书](paper.md)
-  - [共识算法](paper.md)
-  - [零知识证明](paper.md)
   - [分布式系统](paper.md)
+	- [基本原理](paper.md)
+	- [共识算法](paper.md)
+	- [P2P](paper.md)
+  - [密码学](paper.md)
+  	- [VDF](paper.md)
+	- [零知识证明](paper.md)
+	- [数据持有性证明及数据可检索证明](paper.md)
+	- [POSW](paper.md)
 
 
 ## 附录

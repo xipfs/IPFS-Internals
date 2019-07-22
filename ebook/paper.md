@@ -1,5 +1,5 @@
 ## 论文列表
-
+[TOC]
 ### 近世代数
 
 + [代数学基础](../paper/math_intro.pdf)
@@ -53,6 +53,7 @@
 + [Zk-SNARKs: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
 + [Bulletproofs: Short Proofs for Confidential Transactions and More](https://eprint.iacr.org/2017/1066.pdf)
 + [STARKs, Part I: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
++ [On Σ-protocols](http://www.cs.au.dk/~ivan/Sigma.pdf)
 + [Examples of Sigma Protocols](https://kodu.ut.ee/~swen/courses/crypto-ii/10-exercises.pdf)
 + [Σ-Protocols Continued & Introduction to Zero Knowledge](https://cs.nyu.edu/courses/spring07/G22.3220-001/lec3.pdf)
 
@@ -68,8 +69,6 @@
 + [Outsourced Proofs of Retrievability](http://www.ghassankarame.com/OPOR.pdf)
 + [MR-PDP: Multiple-Replica Provable Data Possession](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.513.5032&rep=rep1&type=pdf)
 + [Dynamic Provable Data Possession](https://eprint.iacr.org/2008/432.pdf)
-+ [Compact Proofs of Retrievability](https://hovav.net/ucsd/dist/verstore.pdf)
-
 + [数据可恢复性的零知识证明](../paper/6.pdf)
 + [云数据完整性验证的关键技术研究](../paper/1.pdf)
 + [云数据完整性与可用性研究](../paper/2.pdf)
